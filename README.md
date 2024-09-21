@@ -10,16 +10,16 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirrsharma&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8&size_weight=0.6&count_weight=0.4">
       </td>
       <td>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,arduino,java,html,css,js,ts" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,arduino,react,java,html,css,js,ts" />
         </p>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,express,spring,tailwind,tensorflow" />
         </p>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,supabase,mongodb,firebase" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,supabase,api,mongodb,firebase,huggingface,docker,raspberrypi" />
         </p>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,vercel,netlify" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,latex,desmos,idea,acrobat,vercel,davinci,netlify" />
       </td>
     </tr>
-  </table>
+  </table> 
 
 <h2>Connect with me</h2>
 <p align = "left">
@@ -29,7 +29,13 @@
   <a href="mailto:info@samirsharma.ca">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
   </a>
-</p> 
+  <a href="https://discordapp.com/users/813566885282709514">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" />
+  </a>
+  <a href = "https://www.samirsharma.ca">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mediaencoder" />
+  </a>
+</p>  
 
 <h2>GitHub Stats</h2>
 <center>
