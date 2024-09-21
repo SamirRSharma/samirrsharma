@@ -12,7 +12,7 @@
       <td>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,arduino,react,java,html,css,js,ts" />
         </p>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,express,spring,tailwind,tensorflow" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,spring,tailwind,tensorflow" />
         </p>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,supabase,api,mongodb,firebase,huggingface,docker,raspberrypi" />
         </p>
