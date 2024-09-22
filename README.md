@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Samir++Sharma+.+.+.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F">
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/{SamirRSharma}/count.svg)
+
 <h2>Tech Stack</h2>
 <p>
   <table>
