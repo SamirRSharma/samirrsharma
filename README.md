@@ -41,7 +41,7 @@
 <center>
 <p>
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=samirrsharma&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aadium&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=samirrsharma&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%"/>
 </p>
 </center>
 <p align="center">
