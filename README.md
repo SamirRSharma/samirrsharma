@@ -51,4 +51,4 @@
 </p>
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Hello+World&type=horizontal&theme=dracula)](https://samirsharma.ca) -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://samirsharma.ca))
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://samirsharma.ca)
