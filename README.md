@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Samir++Sharma+.+.+.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F">
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/{SamirRSharma}/count.svg)
 
+<!-- </#> ![Visitor Count](https://profile-counter.glitch.me/{SamirRSharma}/count.svg) -->
 <h2>Tech Stack</h2>
 <p>
   <table>
@@ -49,3 +49,6 @@
 <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=samirrsharma&theme=tokyo-night&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
 </p>
+
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Hello+World&type=horizontal&theme=dracula)](https://samirsharma.ca) -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://samirsharma.ca))
